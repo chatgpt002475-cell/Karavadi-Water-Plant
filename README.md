@@ -4,6 +4,11 @@ Comprehensive repository containing managerial, technical, financial, and operat
 
 ---
 
+## 📑 Complete Document Catalog (107 Separate Files)
+- **[DOCUMENT_CATALOG_107_FILES.md](DOCUMENT_CATALOG_107_FILES.md)**: **Directory Index of all 107 Dedicated Technical Files** across Hydrogeology, CAD Civil Layouts, Machinery SOPs, BIS Licensing, Laboratory QC, Financial Engineering, B2B Routes, and Asset Security.
+
+---
+
 ## 📖 Master Operational & Technical Manuals
 - **[KARAVADI_WATER_PLANT_ADVANCED_ENGINEERING_MASTER_BOOKLET.md](KARAVADI_WATER_PLANT_ADVANCED_ENGINEERING_MASTER_BOOKLET.md)**: **The Complete Master Engineering & Commercial Blueprint** integrating all 8 Phases.
 - **[KARAVADI_WATER_PLANT_OPERATIONS_BOOKLET.md](KARAVADI_WATER_PLANT_OPERATIONS_BOOKLET.md)**: Standard Operational Booklet.
@@ -16,6 +21,18 @@ Comprehensive repository containing managerial, technical, financial, and operat
 - **[Phase 5: Laboratory QC & 20 SOPs](docs/PHASE_5_LAB_QC_20_SOPS.md)**: 20 Lab testing SOPs, titrations, membrane filtration pathogen testing, and daily batch release flowcharts.
 - **[Phase 6: Costing & Financial Engineering](docs/PHASE_6_COSTING_FINANCIAL_ENGINEERING.md)**: Detailed Capex/Opex in INR & SI units, mass balance, unit economics, break-even and 5-year NPV/IRR.
 - **[Phases 7 & 8: B2B Routes & Fleet Security](docs/PHASE_7_8_SALES_ROUTES_ASSET_CONTROLS.md)**: Commercial routes, word-for-word sales pitch scripts, ₹150 can deposit security, and daily truck reconciliation.
+
+---
+
+## 📂 Dedicated Document Folders
+- [`phase_1_ground_reports/`](phase_1_ground_reports/): 20 Separate Hydrogeological Ground Testing Reports (GW-01 to GW-20)
+- [`phase_2_civil_layouts/`](phase_2_civil_layouts/): 20 Separate Architectural CAD Layout Specifications (CV-01 to CV-20)
+- [`phase_3_machinery_sops/`](phase_3_machinery_sops/): 20 Separate Machinery Operational & Calibration SOPs (MC-01 to MC-20)
+- [`phase_4_regulatory_licenses/`](phase_4_regulatory_licenses/): 10 Separate Statutory Regulatory & Licensing Manuals (LIC-01 to LIC-10)
+- [`phase_5_lab_qc_sops/`](phase_5_lab_qc_sops/): 20 Separate Laboratory Quality Control SOPs (SOP-QC-01 to SOP-QC-20)
+- [`phase_6_financial_models/`](phase_6_financial_models/): 6 Separate Financial Engineering & Unit Costing Models (FIN-01 to FIN-06)
+- [`phase_7_b2b_sales_routes/`](phase_7_b2b_sales_routes/): 6 Separate B2B Route Delivery & Sales Pitch Documents (SALES-01 to SALES-06)
+- [`phase_8_asset_cash_controls/`](phase_8_asset_cash_controls/): 5 Separate Asset Protection & Cashflow Control Protocols (CTRL-01 to CTRL-05)
 
 ---
 
