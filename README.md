@@ -4,6 +4,11 @@ Comprehensive repository containing managerial, technical, financial, and operat
 
 ---
 
+## 📖 Master Operational Manual & Blueprint
+- **[KARAVADI_WATER_PLANT_OPERATIONS_BOOKLET.md](KARAVADI_WATER_PLANT_OPERATIONS_BOOKLET.md)**: **The Complete End-to-End Booklet** covering Ground Water Testing, Civil & Plant Architecture, Machinery & Treatment Flow, BIS (ISI) & FSSAI Licensing, Daily SOPs & Lab QC, Costing & Pricing Math, B2B Distribution & Sales Pitch Scripts, and Asset & Cash Protection.
+
+---
+
 ## Repository Structure
 
 ### 📁 Managerial Documents (`KPW_MANAGERIAL_Documents/`)
